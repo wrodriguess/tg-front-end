@@ -1,0 +1,67 @@
+{
+  "name": "telemedicina-frontend",
+  "version": "0.1.0",
+  "homepage": "http://wrodriguess.github.io/tg-front-end",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.8.1",
+    "@emotion/styled": "^11.8.1",
+    "@fontsource/roboto": "^4.5.3",
+    "@fontsource/roboto-slab": "^4.5.4",
+    "@fontsource/ubuntu": "^4.5.3",
+    "@material-ui/core": "^5.0.0-beta.5",
+    "@mui/icons-material": "^5.2.5",
+    "@mui/material": "^5.4.3",
+    "@mui/styles": "^5.2.3",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.24.0",
+    "core-js": "^3.16.3",
+    "dayjs": "^1.11.1",
+    "download": "^8.0.0",
+    "express": "^4.18.1",
+    "formik": "^2.2.9",
+    "install": "^0.13.0",
+    "moment": "^2.29.3",
+    "npm": "^8.8.0",
+    "react": "^17.0.2",
+    "react-big-calendar": "^0.40.1",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-router": "^5.2.1",
+    "react-router-dom": "^6.2.2",
+    "react-scripts": "4.0.3",
+    "web-vitals": "^1.0.1",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
