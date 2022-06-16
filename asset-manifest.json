@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/tg-front-end/static/css/main.c95bd8a3.chunk.css",
+    "main.js": "/tg-front-end/static/js/main.d50fec71.chunk.js",
+    "main.js.map": "/tg-front-end/static/js/main.d50fec71.chunk.js.map",
+    "runtime-main.js": "/tg-front-end/static/js/runtime-main.6fcf42ac.js",
+    "runtime-main.js.map": "/tg-front-end/static/js/runtime-main.6fcf42ac.js.map",
+    "static/css/2.2e9260e8.chunk.css": "/tg-front-end/static/css/2.2e9260e8.chunk.css",
+    "static/js/2.0a76fd1d.chunk.js": "/tg-front-end/static/js/2.0a76fd1d.chunk.js",
+    "static/js/2.0a76fd1d.chunk.js.map": "/tg-front-end/static/js/2.0a76fd1d.chunk.js.map",
+    "index.html": "/tg-front-end/index.html",
+    "static/css/2.2e9260e8.chunk.css.map": "/tg-front-end/static/css/2.2e9260e8.chunk.css.map",
+    "static/css/main.c95bd8a3.chunk.css.map": "/tg-front-end/static/css/main.c95bd8a3.chunk.css.map",
+    "static/js/2.0a76fd1d.chunk.js.LICENSE.txt": "/tg-front-end/static/js/2.0a76fd1d.chunk.js.LICENSE.txt",
+    "static/media/logoAzul.b8cb5cb9.png": "/tg-front-end/static/media/logoAzul.b8cb5cb9.png",
+    "static/media/logoAzulHoriz.8d3bb988.png": "/tg-front-end/static/media/logoAzulHoriz.8d3bb988.png",
+    "static/media/notFound.3b101e9a.png": "/tg-front-end/static/media/notFound.3b101e9a.png",
+    "static/media/photo-login.9824508f.jpg": "/tg-front-end/static/media/photo-login.9824508f.jpg",
+    "static/media/photo-register.94dd238f.jpg": "/tg-front-end/static/media/photo-register.94dd238f.jpg",
+    "static/media/index.css": "/tg-front-end/static/media/ubuntu-latin-ext-400-normal.9967dbf1.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fcf42ac.js",
+    "static/css/2.2e9260e8.chunk.css",
+    "static/js/2.0a76fd1d.chunk.js",
+    "static/css/main.c95bd8a3.chunk.css",
+    "static/js/main.d50fec71.chunk.js"
+  ]
+}
